@@ -1,0 +1,26 @@
+[
+  {
+    "grid_size": 3,
+    "time_seconds": 195.9,
+    "moves": 21,
+    "timestamp": 1787952396.7222476
+  },
+  {
+    "grid_size": 3,
+    "time_seconds": 76.78,
+    "moves": 11,
+    "timestamp": 1787952801.122741
+  },
+  {
+    "grid_size": 3,
+    "time_seconds": 74.79,
+    "moves": 11,
+    "timestamp": 1790683885.4810362
+  },
+  {
+    "grid_size": 3,
+    "time_seconds": 90.69,
+    "moves": 12,
+    "timestamp": 1790684045.8148968
+  }
+]
